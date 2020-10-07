@@ -4,3 +4,6 @@ def inc(x):
 
 def test_sample():
     assert inc(3) == 5
+
+def test_sample():
+    assert inc(3) == 4
