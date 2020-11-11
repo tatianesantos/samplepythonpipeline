@@ -30,5 +30,5 @@ steps:
   displayName: 'Install pytest'
 
 - script: |
-    python -m pytest tests/
+    python -m pytest test/
   displayName: 'pytest'
